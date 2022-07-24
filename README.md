@@ -1,6 +1,6 @@
-# Project_4_Market_Pen
+# Project 4: Market Penetration 
 
-Project 4: Market penetration 
+Project 4: Market penetration (Implementation of Bass Fusion Model)
 Hoa Tran 
 20/2/2022 
 
